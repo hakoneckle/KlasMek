@@ -1,0 +1,5 @@
+- **Course**: Classical Mechanics at NTNU, autumn 2021
+- **Type**: Assignments
+- **Titles**:
+  - Assignment 1: Projectile motions
+  - Assignment 2: The trebuchet
